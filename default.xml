@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="cm"
-           fetch="https://github.com/cyanogenmod"
+           fetch="https://github.com"
            review="review.cyanogenmod.org" />
 
 
