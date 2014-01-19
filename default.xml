@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="cm"
+           fetch="https://github.com/cyanogenmod"
+           review="review.cyanogenmod.org" />
+
+
+ <project path="msm8974" name="CyanogenMod/android_kernel_lge_msm8974" remote="cm" revision="cm-11.0" />
+
+</manifest>
